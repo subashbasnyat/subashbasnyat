@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Machine Learning, Dash and Scrapy.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/subashbasnyat?tab=repositories](https://github.com/subashbasnyat?tab=repositories)
-
 - 📝 I regularly write articles on [subashbasnyat@medium.com](subashbasnyat@medium.com) and [subashbasnyat@substack.com](subashbasnyat@substack.com)
 
 - 📫 How to reach me **subash.basnet0123@gmail.com**
+
+- 👨‍💻 My website [sbasnet.com.np](https://www.sbasnet.com.np)
 
 - ⚡ Fun fact **Interested in Psychology, History and Sociology.**
 
