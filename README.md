@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Dash and Scrapy.**
 
-- 📝 I regularly write articles on [subashbasnyat@medium.com](subashbasnyat@medium.com) and [subashbasnyat@substack.com](subashbasnyat@substack.com)
+- 📝 I regularly write articles on [subashbasnyat@medium.com](https://www.subashbasnyat@medium.com) and [subashbasnyat@substack.com](https://www.subashbasnyat@substack.com)
 
 - 📫 How to reach me **subash.basnet0123@gmail.com**
 
