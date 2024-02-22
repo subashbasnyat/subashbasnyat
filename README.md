@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Subash Basnet</h1>
 <h3 align="center">I am a Computer Engineer graduated from Kathmandu University, Nepal. The existence is a program, we are here to add our part of code.</h3>
 
-- 🔭 I’m currently working on **Odoo**
+- 🔭 I’m currently working on **Automatic Speech Recognition**
 
-- 🌱 I’m currently learning **Machine Learning, Dash and Scrapy.**
+- 🌱 I’m currently learning **Machine Learning, LLM and RAG.**
 
 - 📝 I regularly write articles on [subashbasnyat@medium.com](https://subashbasnyat.medium.com/) and [subashbasnyat@substack.com](https://subashbasnyat.substack.com)
 
 - 📫 How to reach me **subash.basnet0123@gmail.com**
 
-- 👨‍💻 My website [sbasnet.com.np](https://www.sbasnet.com.np)
+- 👨‍💻 My website [sbasnet.com.np](https://www.subashbasnet.com)
 
 - ⚡ Fun fact **Interested in Psychology, History and Sociology.**
 
