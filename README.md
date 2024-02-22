@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **subash.basnet0123@gmail.com**
 
-- 👨‍💻 My website [sbasnet.com.np](https://www.subashbasnet.com)
+- 👨‍💻 My website [subashbasnet.com](https://www.subashbasnet.com)
 
 - ⚡ Fun fact **Interested in Psychology, History and Sociology.**
 
