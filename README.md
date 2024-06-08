@@ -1,7 +1,3 @@
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: contain; background-size: contain; width: 100vw; opacity: 0.1; background: url('https://github.com/subashbasnyat/subashbasnyat/blob/main/Leo.gif?raw=true');]{x0000}$}
-```
-
 <h1 align="center">Hi 👋, I'm Subash Basnet</h1>
 <h3 align="center">I am a Computer Engineer graduated from Kathmandu University, Nepal. The existence is a program, we are here to add our part of code.</h3>
 
